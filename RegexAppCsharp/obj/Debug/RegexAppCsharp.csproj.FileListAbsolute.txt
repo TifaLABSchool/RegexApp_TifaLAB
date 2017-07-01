@@ -1,0 +1,9 @@
+c:\users\tifalab\documents\visual studio 2017\Projects\YouTube\RegexAppCsharp\RegexAppCsharp\bin\Debug\RegexAppCsharp.exe.config
+c:\users\tifalab\documents\visual studio 2017\Projects\YouTube\RegexAppCsharp\RegexAppCsharp\bin\Debug\RegexAppCsharp.exe
+c:\users\tifalab\documents\visual studio 2017\Projects\YouTube\RegexAppCsharp\RegexAppCsharp\bin\Debug\RegexAppCsharp.pdb
+c:\users\tifalab\documents\visual studio 2017\Projects\YouTube\RegexAppCsharp\RegexAppCsharp\obj\Debug\RegexAppCsharp.csprojResolveAssemblyReference.cache
+c:\users\tifalab\documents\visual studio 2017\Projects\YouTube\RegexAppCsharp\RegexAppCsharp\obj\Debug\RegexAppCsharp.Form1.resources
+c:\users\tifalab\documents\visual studio 2017\Projects\YouTube\RegexAppCsharp\RegexAppCsharp\obj\Debug\RegexAppCsharp.Properties.Resources.resources
+c:\users\tifalab\documents\visual studio 2017\Projects\YouTube\RegexAppCsharp\RegexAppCsharp\obj\Debug\RegexAppCsharp.csproj.GenerateResource.Cache
+c:\users\tifalab\documents\visual studio 2017\Projects\YouTube\RegexAppCsharp\RegexAppCsharp\obj\Debug\RegexAppCsharp.exe
+c:\users\tifalab\documents\visual studio 2017\Projects\YouTube\RegexAppCsharp\RegexAppCsharp\obj\Debug\RegexAppCsharp.pdb
